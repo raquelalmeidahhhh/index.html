@@ -1,0 +1,62 @@
+
+
+header{
+    font-family: "Bodoni Moda SC", serif;
+    border-bottom: solid 4px white;
+    color: white;
+    padding: 20px;
+    font-size: 40px;
+}
+section {
+    margin-top: 40px;
+    background: rgb(184,156,213);
+    padding: 40px;
+    display: flex;
+}
+
+.categoria {
+    padding: 40px;
+    display: flex;
+  }
+
+body{
+    font-family: "Bodoni Moda SC", serif;
+    color: rgb(255, 255, 255);
+    background: purple;
+    font-family: "Chakra Petch", sans-serif;
+    padding: 40px;
+}
+
+
+
+ .title{
+    background: #ffbbd2;
+    padding: 40px;
+    margin-bottom: 4px solid rgb(100, 2, 95);
+    font-size: 40px;
+ }
+ 
+ .video{
+    padding: 40px;
+overflow-x: auto;
+gap: 40px;
+display: flex;
+ }
+
+ .video iframe{
+opacity: 0.5;
+height: 200px
+ }
+
+.video iframe:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(190, 4, 106);
+}
+
+h1{
+    font-size: 25px;
+}
+
+h2{
+    padding-right: 40px;
+}
